@@ -22,7 +22,7 @@ namespace EnumTest
 
 	}
 
-	public enum SortOrder
+	public enum SortOrder : uint
 	{
 		Ascending,
 		Descending
